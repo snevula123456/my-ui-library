@@ -1,6 +1,6 @@
 {
-  "name": "@snevula/my-ui-library",
-  "version": "0.0.2",
+  "name": "my-ui-library",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
